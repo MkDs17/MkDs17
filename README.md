@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Instagram-%40MkDs14-orange?style=plastic&logo=instagram)](https://www.instagram.com/mkds14/)
 [![](https://img.shields.io/badge/Twitter-%40MkDs14-blue?style=plastic&logo=twitter)](https://twitter.com/mkdesign14/)
 
-[![HitCount](http://hits.dwyl.com/MkDs17/MkDs17.svg)](http://hits.dwyl.com/MkDs17/MkDs17)
+[![HitCount](http://hits.dwyl.com/MkDs17/MkDs17.svg?style=plastic)](http://hits.dwyl.com/MkDs17/MkDs17)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iQmhMDuNQWuWI/giphy.gif" />
 
