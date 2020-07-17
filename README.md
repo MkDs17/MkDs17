@@ -17,7 +17,7 @@
 
 <div style="display:flex">
 
-<div style="display:flex">
+<div style="display: flex; align-items: center; justify-content: space-around;">
 
 ##### portfolio :
 <a href="https://portfolio.mr-webdev.com"> 
@@ -25,7 +25,7 @@
 </a>
 </div>
 
-<div style="display:flex">
+<div style="display: flex; align-items: center; justify-content: space-around;">
 
 ##### web resume :
 <a href="https://cv.mr-webdev.com">
