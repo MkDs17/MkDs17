@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Mickael 👨‍💻
+# 👋 Hi there, I'm Mickael 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-Mickael%20Rassicot-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/mickael-rassicot/)
 [![](https://img.shields.io/badge/Gmail-mickael.rassicot%40gmail.com-red?style=plastic&logo=gmail)](mailto:mickael.rassicot@gmail.com)
@@ -8,8 +8,8 @@
 
 <img width="100%" style="border-radius: 3px" alt="who am i" src="who-am-i.png" />
 
-# About me :
-### I'm a front-end developer, in love with Javascript (React ❤️). I created many projects where I could acquire knowledge on the back-end. I have room for improvement and very very very good sense of humor!
+### About me :
+#### I'm a front-end developer, in love with Javascript (React ❤️). I created many projects where I could acquire knowledge on the back-end. I have room for improvement and very very very good sense of humor!
 
 [![HitCount](http://hits.dwyl.com/MkDs17/MkDs17.svg)](http://hits.dwyl.com/MkDs17/MkDs17)
 
