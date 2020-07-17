@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Twitter-%40MkDs14-blue?style=plastic&logo=twitter)](https://twitter.com/mkdesign14/)
 
 
-<img width="100%" style="border-radius: 3px" alt="who am i" src="who-am-i.png">
+![](https://github.com/mkds17/mkds17/blob/master/who-am-i.png)
 
 ### About me :
 #### I'm a front-end developer, in love with Javascript (React ❤️). I created many projects where I could acquire knowledge on the back-end. I have room for improvement and very very very good sense of humor!
