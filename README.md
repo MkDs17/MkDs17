@@ -15,15 +15,19 @@
 
 ### You can check some of my projects here : 
 
+<div style="display:flex">
+
 ##### portfolio :
 <a href="https://portfolio.mr-webdev.com"> 
-  <img align="left" src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
+  <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
 </a>
 
 ##### web resume :
 <a href="https://cv.mr-webdev.com">
-  <img align="right" src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
+  <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
 </a>
+
+</div>
 
 ---
 
