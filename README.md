@@ -17,15 +17,19 @@
 
 <div style="display:flex">
 
+<div style="display:flex">
 ##### portfolio :
 <a href="https://portfolio.mr-webdev.com"> 
   <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
 </a>
+</div>
 
+<div style="display:flex">
 ##### web resume :
 <a href="https://cv.mr-webdev.com">
   <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
 </a>
+</div>
 
 </div>
 
