@@ -13,13 +13,15 @@
 
 ---
 
-You can check some of my projects here : 
+### You can check some of my projects here : 
 
-<a href="https://portfolio.mr-webdev.com" width="50%">
+##### portfolio :
+<a href="https://portfolio.mr-webdev.com" width="300px">
   <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
 </a>
 
-<a href="https://cv.mr-webdev.com" width="50%">
+#### web resume :
+<a href="https://cv.mr-webdev.com" width="300px">
   <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
 </a>
 
