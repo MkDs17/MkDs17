@@ -12,8 +12,23 @@
 #### I'm a front-end developer, in love with Javascript (React ❤️). I created many projects where I could acquire knowledge on the back-end. I have room for improvement and very very very good sense of humor!
 
 ---
-⭐️ From [MkDs17](https://github.com/MkDs17)
+
+You can check some of my projects here : 
+
+<a href="https://portfolio.mr-webdev.com">
+  <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
+</a>
+
+<a href="https://cv.mr-webdev.com">
+  <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
+</a>
+
 ---
+
+#### ⭐️ From [MkDs17](https://github.com/MkDs17)
+
+---
+
 [![HitCount](http://hits.dwyl.com/MkDs17/MkDs17.svg)](http://hits.dwyl.com/MkDs17/MkDs17)
 
 
