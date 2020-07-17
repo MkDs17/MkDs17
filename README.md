@@ -16,12 +16,12 @@
 ### You can check some of my projects here : 
 
 ##### portfolio :
-<a href="https://portfolio.mr-webdev.com" width="300px">
+<a href="https://portfolio.mr-webdev.com" width="300px" height="150px"> 
   <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
 </a>
 
-#### web resume :
-<a href="https://cv.mr-webdev.com" width="300px">
+##### web resume :
+<a href="https://cv.mr-webdev.com" width="300px" height="150px">
   <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
 </a>
 
