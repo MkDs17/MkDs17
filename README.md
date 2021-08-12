@@ -41,6 +41,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=CovidTracker)](https://github.com/mkds17/CovidTracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=inspiQuotes-v2)](https://github.com/mkds17/inspiQuotes-v2)
