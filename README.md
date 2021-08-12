@@ -43,6 +43,7 @@
 
 [![HitCount](http://hits.dwyl.com/MkDs17/MkDs17.svg)](http://hits.dwyl.com/MkDs17/MkDs17)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=inspiQuotes-v2)](https://github.com/mkds17/inspiQuotes-v2)
 
 
 <!--
