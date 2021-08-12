@@ -41,7 +41,7 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=myLinkedInResume)](https://github.com/mkds17/myLinkedInResume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=CovidTracker)](https://github.com/mkds17/CovidTracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=inspiQuotes-v2)](https://github.com/mkds17/inspiQuotes-v2)
 
