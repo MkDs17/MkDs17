@@ -15,23 +15,22 @@
 
 ### You can check some of my projects here : 
 
-<div style="display:flex">
+<div align="center">
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-
-##### portfolio :
-<a href="https://portfolio.mr-webdev.com"> 
-  <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
-</a>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-around;">
-
-##### web resume :
-<a href="https://cv.mr-webdev.com">
-  <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
-</a>
-</div>
+  <div style="display: flex; align-items: center; justify-content: space-around;">
+    <div>
+      <h3>Portfolio :</h3>
+      <a href="https://portfolio.mr-webdev.com"> 
+        <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
+      </a>
+    </div>
+    <div>
+      <h3>Web resume :</h3>
+      <a href="https://cv.mr-webdev.com">
+        <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
+      </a>
+    </div>
+  </div>
 
 </div>
 
