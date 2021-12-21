@@ -18,18 +18,10 @@
 <div align="center">
 
   <div style="display: flex; align-items: flex-start; justify-content: space-around;">
-    <div>
-      <h3>Portfolio :</h3>
       <a href="https://portfolio.mr-webdev.com"> 
         <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
-      </a>
-    </div>
-    <div>
-      <h3>Web resume :</h3>
       <a href="https://cv.mr-webdev.com">
         <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
-      </a>
-    </div>
   </div>
 
 </div>
@@ -52,6 +44,9 @@
 </div>
 
 ---
+
+
+### My public repositories : 
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
