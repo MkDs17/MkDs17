@@ -18,10 +18,12 @@
 <div align="center">
 
   <div style="display: flex; align-items: flex-start; justify-content: space-around;">
-      <a href="https://portfolio.mr-webdev.com"> 
-        <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" />
-      <a href="https://cv.mr-webdev.com">
-        <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" />
+    <a href="https://portfolio.mr-webdev.com"> 
+      <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" alt="check out my photographies portfolio"/>
+    </a>
+    <a href="https://cv.mr-webdev.com">
+      <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" alt="check out my web resume"/>
+    </a>
   </div>
 
 </div>
