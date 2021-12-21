@@ -10,7 +10,7 @@
   <div style="display: flex; align-items: center;justify-content:space-between">
     <img src="https://github.com/mkds17/mkds17/blob/master/who-am-i.png" width="400" alt="Who Am I"/>
     <a href="https://app.daily.dev/MkDs17">
-      <img src="https://api.daily.dev/devcards/aa1b73e16030451c820443a93693d585.png?r=w3s" width="280" alt="Mickael's Dev Card"/>
+      <img src="https://github.com/mkds17/mkds17/blob/master/devcard.svg" width="280" alt="Mickael's Dev Card"/>
     </a>
   </div>
 </div>
