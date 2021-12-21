@@ -21,7 +21,7 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17&layout=compact" width="400" alt="Mickael's Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17&layout=compact" width="539" alt="Mickael's Most Used Languages"/>
 </a>
 
 ---
