@@ -8,7 +8,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: center;justify-content:space-between">
-    <img src="https://github.com/mkds17/mkds17/blob/master/who-am-i.png" width="400" alt="Who Am I"/>
+    <img src="https://github.com/mkds17/mkds17/blob/master/who-am-i.png" width="539" alt="Who Am I"/>
     <a href="https://app.daily.dev/MkDs17">
       <img src="https://github.com/mkds17/mkds17/blob/master/devcard.svg" width="280" alt="Mickael's Dev Card"/>
     </a>
@@ -21,7 +21,7 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17&layout=compact" width="539" alt="Mickael's Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17&layout=compact" width="400" alt="Mickael's Most Used Languages"/>
 </a>
 
 ---
