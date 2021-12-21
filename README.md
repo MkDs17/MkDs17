@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  <div style="display: flex; align-items: center; justify-content: space-around;">
+  <div style="display: flex; align-items: flex-start; justify-content: space-around;">
     <div>
       <h3>Portfolio :</h3>
       <a href="https://portfolio.mr-webdev.com"> 
