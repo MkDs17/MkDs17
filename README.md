@@ -6,30 +6,29 @@
 [![](https://img.shields.io/badge/Twitter-%40MkDs14-blue?style=plastic&logo=twitter)](https://twitter.com/mkdesign14/)
 
 
-![](https://github.com/mkds17/mkds17/blob/master/who-am-i.png)
-
-### About me :
-#### I'm a front-end developer, in love with Javascript (React ❤️). I created many projects where I could acquire knowledge on the back-end. I have room for improvement and very very very good sense of humor!
-
----
-
 <div align="center">
   <div style="display: flex; align-items: center;justify-content:space-between">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17&layout=compact" width="400" alt="Mickael's Most Used Languages"/>
-    </a>
+    <img src="https://github.com/mkds17/mkds17/blob/master/who-am-i.png" width="400" alt="Who Am I"/>
     <a href="https://app.daily.dev/MkDs17">
       <img src="https://github.com/mkds17/mkds17/blob/master/devcard.svg" width="280" alt="Mickael's Dev Card"/>
     </a>
   </div>
 </div>
 
+### About me :
+#### I'm a front-end developer, in love with Javascript (React ❤️). I created many projects where I could acquire knowledge on the back-end. I have room for improvement and very very very good sense of humor!
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17&layout=compact" width="400" alt="Mickael's Most Used Languages"/>
+</a>
+
 ---
 
 ### You can check some of my projects here : 
 
 <div align="center">
-
   <div style="display: flex; align-items: flex-start; justify-content: space-around;">
     <a href="https://portfolio.mr-webdev.com"> 
       <img src="https://github.com/mkds17/mkds17/blob/master/mk-portfolio.png" alt="check out my photographies portfolio"/>
@@ -38,7 +37,6 @@
       <img src="https://github.com/mkds17/mkds17/blob/master/my-web-resume.png" alt="check out my web resume"/>
     </a>
   </div>
-
 </div>
 
 ---
