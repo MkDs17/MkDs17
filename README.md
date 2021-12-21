@@ -41,13 +41,29 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <div style="display: flex; align-items: center;justify-content:space-between">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17" width="400" alt="Mickael's Dev Card"/>
+    </a>
+    <a href="https://app.daily.dev/MkDs17">
+      <img src="https://api.daily.dev/devcards/aa1b73e16030451c820443a93693d585.png?r=w3s" width="280" alt="Mickael's Dev Card"/>
+    </a>
+  </div>
+</div>
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=CovidTracker)](https://github.com/mkds17/CovidTracker)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=inspiQuotes-v2)](https://github.com/mkds17/inspiQuotes-v2)
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <a href="https://github.com/mkds17/CovidTracker" style="margin: 0 2px">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=CovidTracker" />
+    </a>
+    <a href="https://github.com/mkds17/inspiQuotes-v2" style="margin: 0 2px">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkds17&repo=inspiQuotes-v2" />
+    </a>
+  </div>
+</div>
 
 
 <!--
