@@ -7,7 +7,7 @@
 
 
 ### Who am I
-<img src="https://github.com/mkds17/mkds17/blob/master/who-am-i.png" width="539" alt="Who Am I"/>
+<img src="https://github.com/mkds17/mkds17/blob/master/who-am-i.png" alt="Who Am I"/>
 
 
 <div align="center">
