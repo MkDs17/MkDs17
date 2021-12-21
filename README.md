@@ -13,6 +13,19 @@
 
 ---
 
+<div align="center">
+  <div style="display: flex; align-items: center;justify-content:space-between">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17" width="400" alt="Mickael's Dev Card"/>
+    </a>
+    <a href="https://app.daily.dev/MkDs17">
+      <img src="https://api.daily.dev/devcards/aa1b73e16030451c820443a93693d585.png?r=w3s" width="280" alt="Mickael's Dev Card"/>
+    </a>
+  </div>
+</div>
+
+---
+
 ### You can check some of my projects here : 
 
 <div align="center">
@@ -26,23 +39,6 @@
     </a>
   </div>
 
-</div>
-
----
-
-#### ⭐️ From [MkDs17](https://github.com/MkDs17)
-
----
-
-<div align="center">
-  <div style="display: flex; align-items: center;justify-content:space-between">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkds17" width="400" alt="Mickael's Dev Card"/>
-    </a>
-    <a href="https://app.daily.dev/MkDs17">
-      <img src="https://api.daily.dev/devcards/aa1b73e16030451c820443a93693d585.png?r=w3s" width="280" alt="Mickael's Dev Card"/>
-    </a>
-  </div>
 </div>
 
 ---
