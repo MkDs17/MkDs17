@@ -6,9 +6,15 @@
 [![](https://img.shields.io/badge/Twitter-%40MkDs14-blue?style=plastic&logo=twitter)](https://twitter.com/mkdesign14/)
 
 
+### Who am I
+<img src="https://github.com/mkds17/mkds17/blob/master/who-am-i.png" width="539" alt="Who Am I"/>
+
+
 <div align="center">
   <div style="display: flex; align-items: center;justify-content:space-between">
-    <img src="https://github.com/mkds17/mkds17/blob/master/who-am-i.png" width="539" alt="Who Am I"/>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=1189162444&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Mickael's Dev Card"/>
+    </a>
     <a href="https://app.daily.dev/MkDs17">
       <img src="https://github.com/mkds17/mkds17/blob/master/devcard.svg" width="280" alt="Mickael's Dev Card"/>
     </a>
