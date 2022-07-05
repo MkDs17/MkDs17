@@ -17,17 +17,14 @@
 </iframe>
 -->
 
-
-<div align="center">
-  <div style="display: flex; align-items: center;justify-content:space-between">
-    <a href="https://github.com/kittinan/spotify-github-profile">
+<a href="https://github.com/kittinan/spotify-github-profile">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=1189162444&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Mickael's Dev Card"/>
-    </a>
-    <a href="https://app.daily.dev/MkDs17">
-      <img src="https://github.com/mkds17/mkds17/blob/master/devcard.svg" width="280" alt="Mickael's Dev Card"/>
-    </a>
-  </div>
-</div>
+</a>
+
+
+<a href="https://app.daily.dev/MkDs17">
+  <img src="https://github.com/mkds17/mkds17/blob/master/devcard.svg" width="280" alt="Mickael's Dev Card"/>
+</a>
 
 ### About me :
 #### I'm a front-end developer, in love with Javascript (React ❤️). I created many projects where I could acquire knowledge on the back-end. I have room for improvement and very very very good sense of humor!
