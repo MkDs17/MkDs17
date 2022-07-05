@@ -21,7 +21,7 @@
 <div align="center">
   <div style="display: flex; align-items: center;justify-content:space-between">
     <a href="https://github.com/kittinan/spotify-github-profile">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=1189162444&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Mickael's Dev Card"/>
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=1189162444&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Mickael's Dev Card"/>
     </a>
     <a href="https://app.daily.dev/MkDs17">
       <img src="https://github.com/mkds17/mkds17/blob/master/devcard.svg" width="280" alt="Mickael's Dev Card"/>
